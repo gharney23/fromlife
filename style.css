@@ -1,0 +1,29 @@
+
+
+.container {position: absolute; width: 1000px; height: 1000px; top: 10%; left: 10%;}
+        .blue1 {position: absolute; background-color:rgba(36, 182, 255, 0.801); width: 1000px; height: 50px; bottom: 5%;
+            left: 10%;}
+            
+        .indigo1 {position: absolute; background-color:rgb(53, 39, 255); width: 1000px; height: 50px; bottom: 10%;
+            left: 10%;}
+        .blue2 {position: absolute; background-color:rgba(36, 182, 255, 0.801); width: 1000px; height: 50px; bottom: 15%;
+            left: 10%;}
+            .indigo2 {position: absolute; background-color:rgb(53, 39, 255); width: 1000px; height: 50px; bottom: 20%;
+                left: 10%;}
+        .blue3 {position: absolute; background-color:rgba(36, 182, 255, 0.801); width: 1000px; height: 50px; bottom: 25%;
+            left: 10%;}
+    
+        .red {position: absolute; background-color:rgb(222, 27, 27);width: 120px; height: 120px; border-radius: 50%; bottom: 25%;
+            left: 55%;}
+        .pink {position: absolute; background-color:rgb(255, 147, 125);width: 1000px; height: 80px; bottom: 25%;
+            left: 10%;}
+        .yellow {position: absolute; background-color:rgb(255, 251, 0); width: 1000px; height: 80px; bottom: 32%;
+                left: 10%;}
+        .pink2 {position: absolute; background-color:rgb(255, 147, 125);width: 1000px; height: 80px; bottom: 39%;
+                left: 10%;} 
+        .yellow2 {position: absolute; background-color:rgb(255, 251, 0); width: 1000px; height: 80px; bottom: 46%;
+                    left: 10%;}
+                    .pink3 {position: absolute; background-color:rgb(255, 147, 125); width: 1000px; height: 80px; bottom: 53%;
+                        left: 10%;}
+                .yellow3 {position: absolute; background-color:rgb(255, 251, 0); width: 1000px; height: 80px; bottom: 60%;
+                            left: 10%;}
